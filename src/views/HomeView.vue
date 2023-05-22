@@ -33,6 +33,7 @@ import { mdiInstagram, mdiTwitch, mdiTwitter, mdiCheck } from '@mdi/js'
           cols="12"
           sm="4"
           md="3"
+          xl="2"
           v-for="i in 10"
           :key="i"
           class="d-flex align-center justify-center"
